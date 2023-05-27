@@ -6,10 +6,10 @@ import Unity, { UnityContext } from "react-unity-webgl";
 
 export default () => {
   const unityContext = new UnityContext({
-    loaderUrl: "./Games/Build/turbo.loader.js",
-    dataUrl: "./Games/Build/turbo.data",
-    frameworkUrl: "./Games/Build/turbo.framework.js",
-    codeUrl: "./Games/Build/turbo.wasm",
+    loaderUrl: "./Games/Build/noturbo.loader.js",
+    dataUrl: "./Games/Build/noturbo.data",
+    frameworkUrl: "./Games/Build/noturbo.framework.js",
+    codeUrl: "./Games/Build/noturbo.wasm",
   });
   return (
     <>
