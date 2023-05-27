@@ -6,6 +6,7 @@ export default () => {
   
     { img: "team-3.png", nam: "Sheriff", title: "Chief Security Officer" },
     { img: "team-4.png", nam: "Coolio", title: "Ceo,Founder" },
+    { img: "team-2.png", nam: "Cooky", title: "Busy Dev" },
   ];
   return (
     <>
