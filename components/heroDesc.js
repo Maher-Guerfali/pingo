@@ -6,12 +6,7 @@ import Unity, { UnityContext } from "react-unity-webgl";
 
 
 export default () => {
-  const unityContext = new UnityContext({
-    loaderUrl: "./Games/Build/turbo.loader.js",
-    dataUrl: "./Games/Build/turbo.data",
-    frameworkUrl: "./Games/Build/turbo.framework.js",
-    codeUrl: "./Games/Build/turbo.wasm",
-  });
+  
   return (
     <>
       <div className="flex flex-col justify-center mb-16 md:mb-0">
