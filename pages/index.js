@@ -13,6 +13,7 @@ import SectionAlpha from "../components/sectionAlpha";
 import SectionBeta from "../components/sectionBeta";
 import SectionDelta from "../components/sectionDelta";
 import SectionGamma from "../components/sectionGamma";
+import SectionGames from "../components/sectionGames";
 
 
 
